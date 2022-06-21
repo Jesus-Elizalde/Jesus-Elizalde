@@ -7,7 +7,7 @@
 
 ## Some of my Github Stats
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Jesus-Elizalde alt=Jesus-Elizalde /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=JesusElizalde alt=JesusElizalde /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jesus-Elizalde&show_icons=true&include_all_commits=true&theme=swift)](https://github.com/JesusElizalde/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Elizalde&layout=compact)](https://github.com/JesusElizalde/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JesusElizalde&show_icons=true&include_all_commits=true&theme=swift)](https://github.com/JesusElizalde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusElizalde&layout=compact)](https://github.com/JesusElizalde/github-readme-stats)
